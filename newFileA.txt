@@ -1,2 +1,4 @@
 Testing the auth to gitHub
 Changing to experiment with diff
+Adding a line while on myOwnBranch
+
